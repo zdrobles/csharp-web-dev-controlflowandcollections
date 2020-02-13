@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExercise", "ArrayExercises\ArrayExercise.csproj", "{016D0F7D-4A3B-4B0E-9AB9-80C2128867E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExercise", "ListExercise\ListExercise.csproj", "{94342684-124C-4570-87C3-AF168682576A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExercise", "DictionaryExercise\DictionaryExercise.csproj", "{66821011-1289-4A9B-90AA-FB8F9F573A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016D0F7D-4A3B-4B0E-9AB9-80C2128867E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016D0F7D-4A3B-4B0E-9AB9-80C2128867E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016D0F7D-4A3B-4B0E-9AB9-80C2128867E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016D0F7D-4A3B-4B0E-9AB9-80C2128867E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94342684-124C-4570-87C3-AF168682576A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94342684-124C-4570-87C3-AF168682576A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94342684-124C-4570-87C3-AF168682576A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94342684-124C-4570-87C3-AF168682576A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66821011-1289-4A9B-90AA-FB8F9F573A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66821011-1289-4A9B-90AA-FB8F9F573A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66821011-1289-4A9B-90AA-FB8F9F573A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66821011-1289-4A9B-90AA-FB8F9F573A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
