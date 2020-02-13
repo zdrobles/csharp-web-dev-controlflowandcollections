@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace DictionaryExercises
+namespace ListExercises
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Dictionaries!");
+            Console.WriteLine("Hello Lists!");
         }
     }
 }
