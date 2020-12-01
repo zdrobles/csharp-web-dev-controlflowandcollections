@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExercises", "Dict
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGradebook", "ListGradebook\ListGradebook.csproj", "{9E623FA0-8E7E-4842-AD6E-37B48C67AD74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGradebook", "ArrayGradebook\ArrayGradebook.csproj", "{5AB82338-90AE-4868-B1E4-7BE795606703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryGradebook", "DictionaryGradebook\DictionaryGradebook.csproj", "{3FB10811-3BAB-478C-869E-564624D13805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +41,13 @@ Global
 		{9E623FA0-8E7E-4842-AD6E-37B48C67AD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E623FA0-8E7E-4842-AD6E-37B48C67AD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E623FA0-8E7E-4842-AD6E-37B48C67AD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB82338-90AE-4868-B1E4-7BE795606703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB82338-90AE-4868-B1E4-7BE795606703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB82338-90AE-4868-B1E4-7BE795606703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB82338-90AE-4868-B1E4-7BE795606703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB10811-3BAB-478C-869E-564624D13805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB10811-3BAB-478C-869E-564624D13805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB10811-3BAB-478C-869E-564624D13805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB10811-3BAB-478C-869E-564624D13805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
